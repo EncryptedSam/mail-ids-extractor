@@ -57,7 +57,7 @@ Executing the extractor.py
 
 Hit enter after entering the command above.
 
-### Stpe 2
+### Step 2
 
 Entering the text (.txt) file which contains website links line by line.
 
@@ -65,13 +65,13 @@ Entering the text (.txt) file which contains website links line by line.
 
 Hit enter after entering the input file name.
 
-### Stpe 3
+### Step 3
 
-Enter the desire name for your Excel Sheet with extension (.xls).
+Enter the desired name for your Excel Sheet with extension (.xls).
 
 ![](Images/img_3.PNG)
 
-Hit enter after entering the desired output file name for ouptput.
+Hit enter after entering the desired output file name for output.
 
 ## Built With
 
