@@ -31,10 +31,10 @@ Unzip the downloaded file and cd into the folder on your "Terminal or Command pr
 
 Example:
 ```
-cd D:\FOLDER-CONTAING-PROJECT-FILES\
+cd D:\FOLDER-CONTAINING-PROJECT-FILES\
 ```
 ```
-D:\FOLDER-CONTAING-PROJECT-FILES>
+D:\FOLDER-CONTAINING-PROJECT-FILES>
 ```
 
 #### Step 2
@@ -67,11 +67,11 @@ Hit enter after entering the input file name.
 
 ### Stpe 3
 
-Entering the text (.txt) file which contains website links line by line.
+Enter the desire name for your Excel Sheet with extension (.xls).
 
 ![](Images/img_3.PNG)
 
-Hit enter after entering the desired file name for ouptput.
+Hit enter after entering the desired output file name for ouptput.
 
 ## Built With
 
@@ -86,6 +86,6 @@ Hit enter after entering the desired file name for ouptput.
 
 Web scraping and crawling aren't illegal by themselves. After all, you could scrape or crawl your own website, without a hitch. - [Rami Essaid](https://resources.distilnetworks.com/all-blog-posts/is-web-scraping-illegal-depends-on-what-the-meaning-of-the-word-is-is)
 
-## Author
+## Developer
 
 * **Sampath Kumar Ajjapaga** 
