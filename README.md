@@ -49,7 +49,7 @@ pip install -r requirements.txt --no-index
 
 To run the tests, below steps have to be followed.
 
-### Step 1
+#### Step 1
 
 Executing the extractor.py
 
@@ -57,7 +57,7 @@ Executing the extractor.py
 
 Hit enter after entering the command above.
 
-### Step 2
+#### Step 2
 
 Entering the text file name along with extension (.txt) which contains website links line by line.
 
@@ -65,7 +65,7 @@ Entering the text file name along with extension (.txt) which contains website l
 
 Hit enter after entering the input file name.
 
-### Step 3
+#### Step 3
 
 Enter the desired name for your Excel Sheet with extension (.xls).
 
