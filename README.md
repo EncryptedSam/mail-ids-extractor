@@ -86,7 +86,7 @@ After execution of the program you should see the output file in the same direct
 
 ![](Images/img_5.PNG)
 
-and the image below is the output of demo.xls.
+and the image below is the output of demo.xls, the final result.
 
 ![](Images/img_6.PNG)
 
