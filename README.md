@@ -53,7 +53,7 @@ To run the tests, below steps to be followed
 
 Executing the extractor.py
 
-![alt text](Images/img_1.png)
+![alt text](Images/img_1.PNG)
 
 Hit enter after entering the command above.
 
@@ -61,7 +61,7 @@ Hit enter after entering the command above.
 
 Entering the text (.txt) file which contains website links line by line.
 
-![alt text](Images/img_2.png)
+![alt text](Images/img_2.PNG)
 
 Hit enter after entering the input file name.
 
@@ -69,7 +69,7 @@ Hit enter after entering the input file name.
 
 Entering the text (.txt) file which contains website links line by line.
 
-![alt text](Images/img_3.png)
+![alt text](Images/img_3.PNG)
 
 Hit enter after entering the desired file name for ouptput.
 
