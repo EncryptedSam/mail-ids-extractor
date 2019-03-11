@@ -47,7 +47,7 @@ pip install -r requirements.txt --no-index
 
 ## Running the tests
 
-To run the tests, below steps to be followed
+To run the tests, below steps have to be followed.
 
 ### Step 1
 
