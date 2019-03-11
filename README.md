@@ -95,4 +95,4 @@ Web scraping and crawling aren't illegal by themselves. After all, you could scr
 
 ## Developer
 
-* **Sampath Kumar Ajjapaga** 
+* [**Sampath Kumar Ajjapaga**](https://github.com/EncryptedSam) 
