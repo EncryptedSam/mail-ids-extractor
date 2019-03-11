@@ -37,7 +37,7 @@ cd D:\FOLDER-CONTAING-PROJECT-FILES\
 D:\FOLDER-CONTAING-PROJECT-FILES>
 ```
 
-#### Step2
+#### Step 2
 
 Execute the command below on you Command "Prompt or Terminal" to download and install the libraries on your local machine with the help of "pip". Make sure that Python and Pip are installed on you local machine.
 
