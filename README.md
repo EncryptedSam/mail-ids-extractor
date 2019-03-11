@@ -88,7 +88,7 @@ After execution of the program you should see the output file in the same direct
 
 and the image below is the output of demo.xls, the final result.
 
-![](Images/img_6.PNG)
+![](Images/img_6.png)
 
 ## Built With
 
