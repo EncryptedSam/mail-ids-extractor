@@ -80,6 +80,16 @@ Enter the desired name for your Excel Sheet with extension (.xls).
 
 Hit enter after entering the desired output file name for output.
 
+## Result Time
+
+After execution of the program you should see the output file in the same directory with the name demo.xls.
+
+![](Images/img_5.PNG)
+
+and the image below is the output of demo.xls.
+
+![](Images/img_6.PNG)
+
 ## Built With
 
 * [Python](https://www.python.org/downloads/) - For setting up the Python Environment on you local machine
