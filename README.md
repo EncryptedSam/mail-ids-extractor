@@ -44,6 +44,13 @@ Execute the command below on you Command "Prompt or Terminal" to download and in
 ```
 pip install -r requirements.txt --no-index
 ```
+## Before running the tests
+
+### Create text file
+
+Before you even start executing the extractor.py script, you need to create a text file with any name for example "urlist.txt" in the same folder which contains downloaded files and fill it with website urls line by line as shown in the picture below.
+
+![](Images/img_4.PNG)
 
 ## Running the tests
 
