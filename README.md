@@ -54,7 +54,7 @@ Before you even start executing the extractor.py script, you need to create a te
 
 ## Running the tests
 
-To run the tests, below steps have to be followed.
+To run the tests, steps below have to be followed.
 
 #### Step 1
 
