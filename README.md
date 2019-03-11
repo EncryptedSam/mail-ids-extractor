@@ -39,7 +39,7 @@ D:\FOLDER-CONTAING-PROJECT-FILES>
 
 #### Step 2
 
-Execute the command below on you Command "Prompt or Terminal" to download and install the libraries on your local machine with the help of "pip". Make sure that Python and Pip are installed on you local machine.
+Execute the command below on you Command "Prompt or Terminal" to download and install the libraries on your local machine with the help of "pip". Make sure that Python3(https://www.python.org/downloads/) and Pip(https://pypi.org/project/pip/) are installed on you local machine.
 
 ```
 pip install -r requirements.txt --no-index
@@ -53,7 +53,7 @@ To run the tests, below steps to be followed
 
 Executing the extractor.py
 
-![alt text](Images/img_1.PNG)
+![](Images/img_1.PNG)
 
 Hit enter after entering the command above.
 
@@ -61,7 +61,7 @@ Hit enter after entering the command above.
 
 Entering the text (.txt) file which contains website links line by line.
 
-![alt text](Images/img_2.PNG)
+![](Images/img_2.PNG)
 
 Hit enter after entering the input file name.
 
@@ -69,7 +69,7 @@ Hit enter after entering the input file name.
 
 Entering the text (.txt) file which contains website links line by line.
 
-![alt text](Images/img_3.PNG)
+![](Images/img_3.PNG)
 
 Hit enter after entering the desired file name for ouptput.
 
