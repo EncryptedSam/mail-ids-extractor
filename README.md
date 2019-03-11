@@ -39,7 +39,7 @@ D:\FOLDER-CONTAING-PROJECT-FILES>
 
 #### Step 2
 
-Execute the command below on you Command "Prompt or Terminal" to download and install the libraries on your local machine with the help of "pip". Make sure that Python3(https://www.python.org/downloads/) and Pip(https://pypi.org/project/pip/) are installed on you local machine.
+Execute the command below on you Command "Prompt or Terminal" to download and install the libraries on your local machine with the help of "pip". Make sure that [Python3](https://www.python.org/downloads/) and [Pip3](https://pypi.org/project/pip/) are installed on you local machine.
 
 ```
 pip install -r requirements.txt --no-index
