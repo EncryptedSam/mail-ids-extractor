@@ -59,7 +59,7 @@ Hit enter after entering the command above.
 
 ### Step 2
 
-Entering the text (.txt) file which contains website links line by line.
+Entering the text file name along with extension (.txt) which contains website links line by line.
 
 ![](Images/img_2.PNG)
 
