@@ -1,6 +1,6 @@
 # Mail Ids Extractor
 
-In a nutshell, it extracts e-mail ids from a given website and feeds them into a Excel Sheet.
+In a nutshell, it extracts e-mail ids from a given website and feeds them into an Excel Sheet.
 
 ## Getting Started
 
